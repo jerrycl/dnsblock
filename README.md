@@ -60,6 +60,6 @@ return a 'not found' (NXDOMAIN) response for any site whose url includes any of 
 
 TODO
 
-Allow dnsblock to run in the background.
-Read the dns server from resolv.conf
+Allow dnsblock to run in the background.<br />
+Read the dns server from resolv.conf<br />
 Add a search for IP addresses that are returned when a domain doesn't exist.
