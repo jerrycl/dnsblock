@@ -52,7 +52,7 @@ Then as root, or as a sudo,
 
 Dnsblock does not need to be run as root. To run, type
 
- dnsblock <actual dns server address>
+ dnsblock <<actual dns server address>>
 
 The dnsblock_blacklist file can be modified to include/remove tracking sites.  Dnsblock will
 return a 'not found' (NXDOMAIN) response for any site whose url includes any of the strings in this file.
